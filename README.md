@@ -21,7 +21,7 @@ Run `git clone` command to get you a copy of the project on your local machine f
 For example: `dotnet run 3` will display the answer for problem # 3. 
 `dotnet run` will ask  for a problem number.
 ## Built With
-* .NET Core SDK or `dotnet new console -lang C# -f netcoreapp2.0 --no-restore` :smile: 
+* .NET Core SDK or `dotnet new console -lang C# -f netcoreapp2.0`  
 * Visual Studio Code or any other text editor such as [ATOM](https://atom.io/)
 * Solutions folder:  each problem has a C# file
 
