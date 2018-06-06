@@ -12,8 +12,9 @@ namespace cSharpProjectEulerSolutions
         What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
          */
          /***********************************Solution *********************************** */
-         /* Two loops will solve the problem. The inside 'FOR loop' is to make sure that is divisible by all of the numbers (i) from 2 to 20
-            We know all numbers are divisible by 1 so our i starts from 2. The outside 'WHILE loop' is for increasing by one smallestNumber until we find out the answer.
+         /* Two loops will solve the problem. The inside 'FOR' loop is to make sure that is divisible by all of the numbers 'i' 
+            from 2 to 20 We know all numbers are divisible by 1 so our i starts from 2. The outside 'DO-WHILE' loop is for increasing 
+            smallestNumber by one until we reach to the answer.
           */
         public void p5()
         {
