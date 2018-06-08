@@ -31,7 +31,7 @@ For example: `dotnet run 3` will display the answer for problem # 3.
 - [Problem 3: ](./Solutions/Problem_3.cs)Largest prime factor
 - [Problem 4: ](./Solutions/Problem_4.cs)Largest palindrome product
 - [Problem 5: ](./Solutions/Problem_5.cs)Smallest multiple :new:
-
+- [Problem 6: ](./Solutions/Problem_6.cs)Sum square difference :new:
 
 
 

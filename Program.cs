@@ -47,6 +47,9 @@ namespace cSharpProjectEulerSolutions
                 case  "5":
                     projectEuler.p5();
                     break;  
+                case  "6":
+                    projectEuler.p6();
+                    break;      
                 default:
                     Console.WriteLine("There is no solution for the problem # {0} yet. Please try it later. Thanks! \n",pID);
                     break;
