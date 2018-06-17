@@ -7,7 +7,7 @@ namespace cSharpProjectEulerSolutions
     {
         /********************************************Largest product in a series*************************************** */
         /*       The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.
-                Find the thirteen adjacent digits in the [1000-digit number](./docs/Problem_8_1000_digit_number.txt) that have the greatest product.
+                Find the thirteen adjacent digits in the 1000-digit number that have the greatest product.
                  What is the value of this product? */
         /**************************************** Solution ***************************************** */
         /* I use a basic solution using one  loop for each 13 adjacent digits and calculate the product value to compare with the previous
