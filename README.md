@@ -30,9 +30,10 @@ For example: `dotnet run 3` will display the answer for problem # 3.
 - [Problem 2: ](./Solutions/Problem_2.cs)Even Fibonacci numbers
 - [Problem 3: ](./Solutions/Problem_3.cs)Largest prime factor
 - [Problem 4: ](./Solutions/Problem_4.cs)Largest palindrome product
-- [Problem 5: ](./Solutions/Problem_5.cs)Smallest multiple :new:
-- [Problem 6: ](./Solutions/Problem_6.cs)Sum square difference :new:
-
+- [Problem 5: ](./Solutions/Problem_5.cs)Smallest multiple
+- [Problem 6: ](./Solutions/Problem_6.cs)Sum square difference
+- [Problem 7: ](./Solutions/Problem_7.cs)10001st prime :new:
+- [Problem 8: ](./Solutions/Problem_8.cs)Largest product in a series :new:
 
 
 
